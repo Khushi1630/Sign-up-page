@@ -12,10 +12,3 @@ This repository contains the source code for a basic sign-up page with a sleek, 
 )
 
 ## Getting Started
-
-To get a local copy up and running, 
-**Copy the code to VS Code
-
-### Prerequisites
-
-You will need a modern web browser to view the page.
